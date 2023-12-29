@@ -1,1 +1,0 @@
-# aws-cloud-resume-challenge
