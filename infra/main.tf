@@ -39,7 +39,6 @@ resource "aws_lambda_function_url" "url1" {
 
         cors {
           
-          allow_credentials = false
         
 
         }
